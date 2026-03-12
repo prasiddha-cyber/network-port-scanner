@@ -21,6 +21,9 @@ scanner/
 
 requirements.txt
 - Python dependencies (if required)
+  
+README.md
+- Project documentation
 
 ## How It Works
 1. The user enters a subnet (example: 192.168.1.)
